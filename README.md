@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anderscain63" alt="anderscain63" /></a> </p>
 
-- � I’m currently looking for **Ruby on Rails, React, and Angular projects.**
+- I’m currently looking for **Ruby on Rails, React, and Angular projects.**
 
-- � How to reach me **xhuljodede4@gmail.com**
+- How to reach me **xhuljodede4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
