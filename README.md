@@ -3,6 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anderscain63&label=Profile%20views&color=0e75b6&style=flat" alt="anderscain63" /> </p>
 <img src="https://scholarshipsinqatar.com/wp-content/uploads/2022/12/4-Best-Tips-to-Boost-your-Career-Development.jpg" alt="anderscain63" />
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anderscain63" alt="anderscain63" /></a> </p>
+
 - I’m currently looking for **Ruby on Rails, React, and Angular projects.**
 
 - How to reach me **anderscain63@gmail.com**
